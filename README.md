@@ -1,4 +1,4 @@
-### Hi there 👋
+### What's up? 
 
 - 🔨 I'm currently training at TITAN 
 - 🌱 I’m currently learning Web Development
